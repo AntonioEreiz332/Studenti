@@ -9,3 +9,14 @@ C:\Users\Učenik 8\source\repos\radSaViseForma\obj\Debug\radSaViseForma.csproj.G
 C:\Users\Učenik 8\source\repos\radSaViseForma\obj\Debug\radSaViseForma.csproj.CoreCompileInputs.cache
 C:\Users\Učenik 8\source\repos\radSaViseForma\obj\Debug\radSaViseForma.exe
 C:\Users\Učenik 8\source\repos\radSaViseForma\obj\Debug\radSaViseForma.pdb
+D:\Visual studio vjezbe 3d\Studenti-main\radSaViseForma\bin\Debug\radSaViseForma.exe.config
+D:\Visual studio vjezbe 3d\Studenti-main\radSaViseForma\bin\Debug\radSaViseForma.exe
+D:\Visual studio vjezbe 3d\Studenti-main\radSaViseForma\bin\Debug\radSaViseForma.pdb
+D:\Visual studio vjezbe 3d\Studenti-main\radSaViseForma\obj\Debug\radSaViseForma.csprojAssemblyReference.cache
+D:\Visual studio vjezbe 3d\Studenti-main\radSaViseForma\obj\Debug\radSaViseForma.frmStudenti.resources
+D:\Visual studio vjezbe 3d\Studenti-main\radSaViseForma\obj\Debug\radSaViseForma.frmUnosNovogStudenta.resources
+D:\Visual studio vjezbe 3d\Studenti-main\radSaViseForma\obj\Debug\radSaViseForma.Properties.Resources.resources
+D:\Visual studio vjezbe 3d\Studenti-main\radSaViseForma\obj\Debug\radSaViseForma.csproj.GenerateResource.cache
+D:\Visual studio vjezbe 3d\Studenti-main\radSaViseForma\obj\Debug\radSaViseForma.csproj.CoreCompileInputs.cache
+D:\Visual studio vjezbe 3d\Studenti-main\radSaViseForma\obj\Debug\radSaViseForma.exe
+D:\Visual studio vjezbe 3d\Studenti-main\radSaViseForma\obj\Debug\radSaViseForma.pdb

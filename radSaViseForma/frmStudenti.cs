@@ -24,19 +24,7 @@ namespace radSaViseForma
         }
 
 
-        string ime, prezime, brojindeksa, smjer;
-        DateTime datumRodjenja;
-
-        public string Ime { get => ime; set => ime = value; }
-        public string Prezime { get => prezime; set => prezime = value; }
-        public string Brojindeksa { get => brojindeksa; set => brojindeksa = value; }
-        public string Smjer { get => smjer; set => smjer = value; }
-        public DateTime DatumRodjenja { get => datumRodjenja; set => datumRodjenja = value; }
-
-        public override string ToString()
-        {
-            return ime+" "+prezime+" "+brojindeksa + datumRodjenja.GetDateTimeFormats +" "+smjer+"\n";
-        }
+        
 
     }
 }

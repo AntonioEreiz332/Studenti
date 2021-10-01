@@ -97,6 +97,7 @@
             this.btnSnimi.TabIndex = 6;
             this.btnSnimi.Text = "Snimi";
             this.btnSnimi.UseVisualStyleBackColor = true;
+            this.btnSnimi.Click += new System.EventHandler(this.btnSnimi_Click);
             // 
             // btnOtkazi
             // 
